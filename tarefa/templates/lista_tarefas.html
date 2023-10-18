@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tarefas</title>
+</head>
+
+<body>
+    <h1>Tarefas</h1>
+    <ul>
+        {% for t in tasks %}
+        <li>
+            <h3>{{ t.title }} - {{ t.data }}</h3>
+            <p>{{t.descricao}}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>
