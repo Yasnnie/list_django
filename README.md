@@ -87,5 +87,5 @@ Para o último passo vamos criar uma pasta chamada templates, nela adicionaremos
 ```
 
 ## Referências:
-https://docs.djangoproject.com/en/4.2/
-https://www.youtube.com/watch?v=DNGI5aD9MJs
+1. https://docs.djangoproject.com/en/4.2/
+2. https://www.youtube.com/watch?v=DNGI5aD9MJs
